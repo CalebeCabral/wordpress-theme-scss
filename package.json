@@ -1,0 +1,14 @@
+{
+  "name": "2p2l",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass style/scss/main.scss style/css/main.css",
+    "sass:watch": "node-sass --watch style/scss/main.scss style/css/main.css"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
